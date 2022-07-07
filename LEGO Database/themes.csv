@@ -1,0 +1,615 @@
+id,name
+1,Technic
+2,Arctic Technic
+3,Competition
+4,Expert Builder
+5,Model
+6,Airport
+7,Construction
+8,Farm
+9,Fire
+10,Harbor
+11,Off-Road
+12,Race
+13,Riding Cycle
+14,Robot
+15,Traffic
+16,RoboRiders
+17,Speed Slammers
+18,Star Wars
+19,Supplemental
+20,Throwbot Slizer
+21,Universal Building Set
+22,Creator
+23,Basic Model
+24,Airport
+25,Castle
+26,Construction
+27,Race
+28,Harbor
+29,Train
+30,Traffic
+31,Creature
+32,Robot
+33,Food & Drink
+34,Building
+35,Cargo
+36,Fire
+37,Basic Set
+38,Model
+39,Traffic
+40,Creature
+41,Riding Cycle
+42,Airport
+43,Building
+44,Recreation
+45,Cargo
+46,Harbor
+47,Fire
+48,Supplemental
+49,Mecha
+50,Town
+51,Arctic
+52,City
+53,Airport
+54,Cargo
+55,Coast Guard
+56,Construction
+57,Farm
+58,Fire
+59,Harbor
+60,Hospital
+61,Police
+62,Supplemental
+63,Traffic
+64,Off-Road
+65,Arctic
+66,Trains
+67,Classic Town
+68,Airport
+69,Building
+70,Cargo
+71,Coast Guard
+72,Construction
+73,Farm
+74,Fire
+75,Food & Drink
+76,Station
+77,Harbor
+78,Hospital
+79,Off-Road
+80,Police
+81,Post Office
+82,Race
+83,Recreation
+84,Supplemental
+85,Traffic
+86,Divers
+87,Extreme Team
+88,Launch Command
+89,Outback
+90,Paradisa
+91,Race
+92,Res-Q
+93,Space Port
+94,Town Jr.
+95,Cargo
+96,Coast Guard
+97,Construction
+98,Fire
+99,Gas Station
+100,Police
+101,Race
+102,Supplemental
+103,Traffic
+104,Town Plan
+105,World City
+106,Airport
+107,Coast Guard
+108,Fire
+109,Food & Drink
+110,Harbor
+111,Police
+112,Racers
+113,Drome Racers
+114,Ferrari
+115,Lamborghini
+116,Power Racers
+117,Radio Control
+118,Speed Racer
+119,Supplemental
+120,Tiny Turbos
+121,Track System
+122,Williams F1
+123,World Racers
+124,Supplemental
+125,Xalax
+126,Space
+127,Alien Conquest
+128,Blacktron I
+129,Blacktron II
+130,Classic Space
+131,Exploriens
+132,Futuron
+133,Ice Planet 2002
+134,Insectoids
+135,Life On Mars
+136,M:Tron
+137,Mars Mission
+138,RoboForce
+139,Space Police I
+140,Space Police II
+141,Space Police III
+142,Spyrius
+143,Supplemental
+144,UFO
+145,Unitron
+146,Galaxy Squad
+147,Pirates
+148,Pirates I
+149,Imperial Armada
+150,Imperial Guards
+151,Imperial Soldiers
+152,Islanders
+153,Pirates II
+154,Pirates III
+155,Modular Buildings
+156,Mini
+157,Bricktober
+158,Star Wars
+159,Mini
+160,Star Wars Clone Wars
+161,Star Wars Episode 2
+162,Star Wars Episode 3
+163,Star Wars Episode 4/5/6
+164,Star Wars Episode 1
+165,Star Wars Clone Wars
+166,Star Wars Episode 1
+167,Star Wars Episode 2
+168,Star Wars Episode 3
+169,Star Wars Episode 4/5/6
+170,Star Wars Other
+171,Ultimate Collector Series
+172,Star Wars Episode 1
+173,Star Wars Episode 3
+174,Star Wars Episode 4/5/6
+175,Star Wars Episode 2
+176,Planet Series 1
+177,Planet Series 2
+178,Minifig Pack
+179,Planet Series 3
+180,Planet Series 4
+181,Star Wars Episode 4/5/6
+182,Star Wars Rebels
+183,Star Wars Expanded Universe
+184,Star Wars Episode 7
+185,Star Wars Rogue One
+186,Castle
+187,Black Falcons
+188,Black Knights
+189,Classic Castle
+190,Crusaders
+191,Dark Forest
+192,Dragon Knights
+193,Fantasy Era
+194,Forestmen
+195,Fright Knights
+196,Kingdoms
+197,Knights Kingdom I
+198,Knights Kingdom II
+199,Lion Knights
+200,My Own Creation
+201,Royal Knights
+202,Supplemental
+203,Wolfpack
+204,Designer Sets
+205,Building
+206,Seasonal
+207,Advent
+208,City
+209,Star Wars
+210,Belville
+211,Castle
+212,Classic Basic
+213,Clikits
+214,Creator
+215,Pirates
+216,Friends
+217,Advent Sub-Set
+218,Belville
+219,Castle
+220,City
+221,Classic Basic
+222,Clikits
+223,Creator
+224,Pirates
+225,Star Wars
+226,Friends
+227,Christmas
+228,Creator
+229,Easter
+230,Halloween
+231,Thanksgiving
+232,Valentine
+233,Train
+234,12V
+235,4.5V
+236,9V
+237,My Own Creation
+238,My Own Train
+239,World City
+240,RC Train
+241,Supplemental
+242,12V
+243,4.5V
+244,9V
+245,RC Train
+246,Harry Potter
+247,Chamber of Secrets
+248,Goblet of Fire
+249,Order of the Phoenix
+250,Prisoner of Azkaban
+251,Sorcerer's Stone
+252,Architecture
+253,Skylines
+254,Bulk Bricks
+255,Castle
+256,Technic
+257,Train
+258,Mindstorms
+259,NXT
+260,RCX
+261,Star Wars
+262,EV3
+263,Pirates of the Caribbean
+264,Indiana Jones
+265,Kingdom of the Crystal Skull
+266,Last Crusade
+267,Raiders of the Lost Ark
+268,Temple of Doom
+269,Cars
+270,Ben 10
+271,Prince of Persia
+272,SpongeBob SquarePants
+273,Studios
+274,Jurassic Park III
+275,Toy Story
+276,Sculptures
+277,Mosaic
+278,Model Team
+279,4 Juniors
+280,Jack Stone
+281,Police
+282,Airport
+283,Fire
+284,Traffic
+285,Gas Station
+286,Pirates
+287,Spider-Man
+288,Spider-Man 2
+289,Supplemental
+290,Town
+291,Police
+292,Traffic
+293,Construction
+294,Gas Station
+295,Fire
+296,Adventurers
+297,Desert
+298,Dino Island
+299,Jungle
+300,Orient Expedition
+301,Other
+302,Agents
+303,Ultra Agents
+304,Alpha Team
+305,Mission Deep Sea
+306,Mission Deep Freeze
+307,Aquazone
+308,Aquanauts
+309,Aquaraiders I
+310,Aquaraiders II
+311,Aquasharks
+312,Hydronauts
+313,Stingrays
+314,Supplemental
+315,Atlantis
+316,Mini
+317,Avatar
+318,Belville
+319,Fairy-Tale
+320,Golden Land
+321,Hospital
+322,Playhouse
+323,Recreation
+324,Bionicle
+325,Agori
+326,Barraki
+327,Battle Vehicles
+328,Bohrok
+329,Bohrok Va
+330,Bohrok-Kal
+331,Glatorian
+332,Glatorian Legends
+333,Matoran of Light
+334,Matoran of Mahri Nui
+335,Matoran of Mata Nui
+336,Matoran of Metru Nui
+337,Matoran of Voya Nui
+338,Mistika
+339,Phantoka
+340,Piraka
+341,Playsets
+342,Rahaga
+343,Rahi
+344,Rahkshi
+345,Stars
+346,Supplemental
+347,Titans
+348,Toa
+349,Toa Hagah
+350,Toa Hordika
+351,Toa Inika
+352,Toa Mahri
+353,Toa Metru
+354,Toa Nuva
+355,Tohunga
+356,Turaga
+357,Vahki
+358,Visorak
+359,Warriors
+360,Protectors
+361,Skull Spiders
+362,Toa Okoto
+363,Boat
+364,Building Set with People
+365,Classic
+366,Basic Set
+367,Building
+368,HO 1:87 Vehicles
+369,Jumbo Bricks
+370,Mosaic
+371,Supplemental
+372,Town Plan
+373,Vehicle
+374,Airport
+375,Farm
+376,Fire
+377,Harbor
+378,Traffic
+379,Supplemental
+380,Train
+381,Construction
+382,Cargo
+383,Wooden Box Set
+384,Dino 2010
+385,Dino Attack
+386,Dinosaurs
+387,Discovery
+388,Disney's Mickey Mouse
+389,Exo-Force
+390,Fabuland
+391,Hospital
+392,Post Office
+393,Harbor
+394,Airport
+395,Fire
+396,Police
+397,Factory
+398,FIRST LEGO League
+399,Freestyle
+400,Hero Factory
+401,Heroes
+402,Vehicles
+403,Villains
+404,Hobby Sets
+405,Homemaker
+406,Inventor
+407,Island Xtreme Stunts
+408,LEGO Brand Store
+409,Monthly Mini Model Build
+410,Pick A Model
+411,Legoland
+412,Airport
+413,Building
+414,Castle
+415,Coast Guard
+416,Construction
+417,Fire
+418,Gas Station
+419,Harbor
+420,Hospital
+421,Police
+422,Space
+423,Vehicle
+424,Western
+425,Legoland Parks
+426,Bionicle
+427,Holiday
+428,Christmas
+429,Halloween
+430,Pirates
+431,Star Wars
+432,Master Building Academy
+433,Minitalia
+434,Ninja
+435,Ninjago
+436,Airjitzu
+437,Pharaoh's Quest
+438,Power Functions
+439,Power Miners
+440,Primo
+441,Quatro
+442,Rock Raiders
+443,Service Packs
+444,Adventurers
+445,Aquazone
+446,Belville
+447,Castle
+448,Fabuland
+449,Pirates
+450,Primo
+451,Scala
+452,Space
+453,Technic
+454,Town
+455,Classic Town
+456,Train
+457,Western 
+458,Sports
+459,Basketball
+460,Gravity Games
+461,Hockey
+462,Soccer
+463,Spybiotics
+464,Time Cruisers
+465,Universal Building Set
+466,Airport
+467,Basic
+468,Basic Model
+469,Basic Set
+470,Classic Basic
+471,Ferries
+472,Gears
+473,Supplemental
+474,Vikings
+475,Western
+476,Cowboys
+477,Indians
+478,X-Pod
+479,Creator
+480,Znap
+481,Dino
+482,Super Heroes
+483,Guardians of the Galaxy
+484,Batman
+485,Ultimate Collector Series
+486,Justice League
+487,Avengers
+488,Spider-Man
+489,Superman
+490,Iron Man
+491,X-Men
+492,Constraction
+493,Marvel
+494,Friends
+495,Jungle Rescue
+496,Animals
+497,Books
+498,Technic
+499,Train
+500,Clikits
+501,Gear
+502,Game
+503,Key Chain
+504,Duplo
+505,Basic Set
+506,Cars
+507,Educational and Dacta
+508,4 Juniors
+509,Adventurers
+510,Boat
+511,Building Set with People
+512,Castle
+513,Classic
+514,Creator
+515,Dinosaurs
+516,Explore
+517,Learning
+518,Mindstorms
+519,NXT
+520,RCX
+521,WeDo
+522,Primo
+523,Samsonite
+524,Service Packs
+525,Technic
+526,Soft Bricks
+527,Space
+528,Supplemental
+529,Technic
+530,Control Lab
+531,eLAB
+532,Supplemental
+533,Town
+534,Universal Building Set
+535,Collectible Minifigures
+536,Series 1 Minifigures
+537,Series 2 Minifigures
+538,Series 3 Minifigures
+539,Series 4 Minifigures
+540,Series 5 Minifigures
+541,Series 6 Minifigures
+542,Series 7 Minifigures
+543,Series 8 Minifigures
+544,Series 9 Minifigures
+545,Series 10 Minifigures
+546,Team GB
+547,Series 11 Minifigures
+548,Series 12 Minifigures
+549,The LEGO Movie Series
+550,The Simpsons
+551,Series 13 Minifigures
+552,Series 14 Minifigures
+553,The Simpsons Series 2
+554,Series 15 Minifigures
+555,Disney
+556,Series 16 Minifigures
+557,DFB Minifigures
+558,Monster Fighters
+559,Value Packs
+560,Universe
+561,The Hobbit and Lord of the Rings
+562,The Hobbit
+563,An Unexpected Journey
+564,The Desolation of Smaug
+565,The Battle of the Five Armies
+566,The Lord of the Rings
+567,The Fellowship of the Ring
+568,The Two Towers
+569,The Return of the King
+570,Teenage Mutant Ninja Turtles
+571,Legends of Chima
+572,Speedorz
+573,Constraction
+574,Legend Beasts
+575,The Lone Ranger
+576,LEGO Ideas and CUUSOO
+577,Minecraft
+578,The LEGO Movie
+579,Disney Princess
+580,Mixels
+581,Series 1
+582,Series 2
+583,Series 3
+584,Series 4
+585,Series 5
+586,Series 6
+587,Series 7
+588,Series 8
+589,Series 9
+590,Fusion
+591,Juniors
+592,DC Comics Super Heroes
+593,Disney Princess
+594,Fantasy
+595,Friends
+596,Marvel Super Heroes
+597,Nijago
+598,Promotional
+599,LEGO Exclusive
+600,Elves
+601,Speed Champions
+602,Jurassic World
+603,Scooby-Doo
+604,Dimensions
+605,Nexo Knights
+606,Angry Birds
+607,Ghostbusters
+608,Disney
+609,The LEGO Batman Movie
+610,Brickheadz
+611,Series 17 Minifigures
+612,Star Wars Episode 8
+613,Freemakers
+614,Jungle
