@@ -58,6 +58,15 @@ CREATE TABLE sets(
 	 FOREIGN KEY (theme_id) REFERENCES themes(id)
 );
 
+ALTER TABLE parts
+MODIFY part_num VARCHAR(20) PRIMARY KEY;
+
+ALTER TABLE sets
+MODIFY set_num VARCHAR(20) PRIMARY KEY;
+
+ALTER TABLE inventory_sets
+ADD FOREIGN KEY (set_num) REFERENCES sets(set_num);
+
 
 ALTER TABLE inventory_parts
 ADD FOREIGN KEY (part_num) REFERENCES parts(part_num);
