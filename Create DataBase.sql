@@ -28,7 +28,7 @@ CREATE TABLE themes(
 CREATE TABLE inventory_parts(
 	color_id INT,
 	inventory_id INT,
-    part_num VARCHAR(30),
+    part_num VARCHAR(30), 
     quantity INT,
     is_spare CHAR,
     FOREIGN KEY (color_id) REFERENCES colors(id),
@@ -37,7 +37,7 @@ CREATE TABLE inventory_parts(
 
 CREATE TABLE inventory_sets(
 	inventory_id INT,
-    set_num VARCHAR(20),
+    set_num VARCHAR(20), 
     quantity INT,
     FOREIGN KEY (inventory_id) REFERENCES inventories(id)
 );
@@ -51,10 +51,23 @@ CREATE TABLE parts(
 
 CREATE TABLE sets(
 	 theme_id INT,
-	 set_num VARCHAR(20),
+	 set_num VARCHAR(20), 
 	 name VARCHAR(100),
 	 year INT,
-	 num_parts INT,
+	 num_parts INT, 
 	 FOREIGN KEY (theme_id) REFERENCES themes(id)
 );
+
+ALTER TABLE parts
+MODIFY part_num VARCHAR(20) PRIMARY KEY;
+
+ALTER TABLE sets
+MODIFY set_num VARCHAR(20) PRIMARY KEY;
+
+ALTER TABLE inventory_sets
+ADD FOREIGN KEY (set_num) REFERENCES sets(set_num);
+
+
+ALTER TABLE inventory_parts
+ADD FOREIGN KEY (part_num) REFERENCES parts(part_num);
 
